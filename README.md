@@ -1,5 +1,5 @@
 # RoadImpactsForests
-This repository contains Python code and example data; the full global datasets required to reproduce the study’s key results are publicly available on Figshare (persistent DataCite DOI: https://doi.org/10.6084/m9.figshare.30655661.v1) to reproduce the key analyses in "Global Impacts of Transportation Infrastructure on Forest Degradation and Loss"—a manuscript submitted to Nature Communications for consideration—including:
+TThis repository contains Python code and example datasets; the full global datasets required to reproduce the study’s key results are publicly available on Figshare (persistent DataCite DOI: https://doi.org/10.6084/m9.figshare.30655661.v1). These resources support the reproduction of key analyses in "Global impacts of transportation infrastructure on forest degradation and loss"—a manuscript published in Nature Communications (https://doi.org/10.1038/s41467-026-69150-4)—including:
 1.	CalculatingCEI.py: Computes the Comprehensive Environmental Index (CEI) by integrating 13 environmental variables via principal component analysis (PCA).
 2.	CalculatingRoadimpact.py: Quantifies road impacts in road/road-reference interface (RRI) zones using the Grid-wise Environmental Matching for Background Reference (GEM-BR) method.
 
